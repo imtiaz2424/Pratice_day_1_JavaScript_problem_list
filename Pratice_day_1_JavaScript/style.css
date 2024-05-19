@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.styleNumber{
+    margin: 50px;
+    text-align: center;
+    
+}
+
+button{
+    padding: 20px;
+    font-size: 20px;
+    box-shadow: 4px 4px 4px 0.5;
+    background-color: blue;
+    color: aliceblue;
+}
+p{
+    margin-top: 15px;
+    font-size: 20px;
+}
